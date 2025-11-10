@@ -15,10 +15,15 @@ The full legal text of the dedication is available here:
 
 ---
 
-### Suggested Citation (Good Practice)
+### Citation
 
 While CC0 does not legally require attribution, we ask users to follow standard scientific and academic practice by citing this repository when using the data.
 
 **Suggested Citation:**
 
-> [Your Repository Name/Title], [Year of latest release], available at: [Link to your GitHub Repo]
+@misc{atagong2025,
+    title = "Automatic Data Abstraction of Malaria funestus from published literature",
+    author = "Salvador D. Atagong, Kennedy Senagi, Mark Wamalwa, Komi Mensah Agboka, Henri Tonnang, John Odindi",
+    year = "2025",
+    url = "https://github.com/icipe-official/automatic-data-abstraction",
+} 
