@@ -1,0 +1,1537 @@
+{
+  "abeokuta|": {
+    "display_name": "Abeokuta, Abeokuta South, Ogun State, 111101, Nigeria",
+    "lat": 7.161,
+    "lon": 3.348
+  },
+  "abeokuta|nan": null,
+  "agule|": {
+    "display_name": "Agule, Ngora, Eastern Region, Uganda",
+    "lat": 1.666667,
+    "lon": 33.816667
+  },
+  "agule|nan": null,
+  "ahero|": {
+    "display_name": "Ahero, Ahero ward, Nyando, Kisumu County, Kenya",
+    "lat": -0.1724612,
+    "lon": 34.9190229
+  },
+  "ahero|nan": null,
+  "akiriamasit|": null,
+  "akiriamasit|nan": null,
+  "ambalavao|": {
+    "display_name": "Ambalavao, Haute Matsiatra, Province de Fianarantsoa, 303, Madagascar",
+    "lat": -21.8316233,
+    "lon": 46.9384737
+  },
+  "ambalavao|nan": {
+    "display_name": "Ambalavao, Betafo, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.8160938,
+    "lon": 46.6505188
+  },
+  "ambohibary|": {
+    "display_name": "Ambohibary, Manjakandriana, Analamanga, Province d’Antananarivo, Madagascar",
+    "lat": -18.8674481,
+    "lon": 47.8156596
+  },
+  "ambohibary|nan": {
+    "display_name": "Ambohibary, Antsirabe II, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.617736,
+    "lon": 47.1386928
+  },
+  "ambohimena|": {
+    "display_name": "Ambohimena, Antsirabe, Antsirabe I, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.8835411,
+    "lon": 47.0433804
+  },
+  "ambohimena|nan": {
+    "display_name": "Ambohimena, Antsirabe, Antsirabe I, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.8928056,
+    "lon": 47.0395557
+  },
+  "amborompotsy|": {
+    "display_name": "Amborompotsy, Ambatofinandrahana, Amoron'i Mania, Province de Fianarantsoa, Madagascar",
+    "lat": -20.6106249,
+    "lon": 46.2478222
+  },
+  "amborompotsy|nan": null,
+  "ambositra|": {
+    "display_name": "Ambositra, Amoron'i Mania, Province de Fianarantsoa, 306, Madagascar",
+    "lat": -20.5328149,
+    "lon": 47.2450521
+  },
+  "ambositra|nan": {
+    "display_name": "Rue d'Ambositra, Ambohimena, Antsirabe, Antsirabe I, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.881844,
+    "lon": 47.0417456
+  },
+  "apac|": {
+    "display_name": "Apac, Uganda",
+    "lat": 1.9337258,
+    "lon": 32.5018028
+  },
+  "apac|nan": {
+    "display_name": "APAC, Rodovia Interventor João Tavares Corrêa Beraldo, Pouso Alegre, Minas Gerais, Southeast Region, 37550-653, Brazil",
+    "lat": -22.2538514,
+    "lon": -45.999299
+  },
+  "arua|": {
+    "display_name": "Arue, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, Metropolitan France, 40120, France",
+    "lat": 44.0603921,
+    "lon": -0.3508658
+  },
+  "arua|nan": {
+    "display_name": "Arua, National Route 222, Agatahigashi 9-chome, Todaka, Nichinan, Miyazaki Prefecture, 887-0021, Japan",
+    "lat": 31.6021479,
+    "lon": 131.3798967
+  },
+  "asembo bay|": {
+    "display_name": "Asembo Bay, North Uyoma ward, Rarieda, Siaya County, Kenya",
+    "lat": -0.2116644,
+    "lon": 34.3707266
+  },
+  "asembo bay|nan": null,
+  "asembo|": {
+    "display_name": "Asembo, East Asembo ward, Rarieda, Siaya County, Kenya",
+    "lat": -0.183341,
+    "lon": 34.3857105
+  },
+  "asembo|nan": null,
+  "azoka|": {
+    "display_name": "Azoka, Carrer de Blesa, Santa Madrona, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalonia, 08004, Spain",
+    "lat": 41.3724749,
+    "lon": 2.1672493
+  },
+  "azoka|nan": null,
+  "bagamoya|": null,
+  "bagamoya|nan": null,
+  "bagre|": {
+    "display_name": "Bagre, Pará, North Region, 68475-000, Brazil",
+    "lat": -1.8994498,
+    "lon": -50.2103844
+  },
+  "bagre|nan": {
+    "display_name": "Bagre, Pontevila, Formiga, Minas Gerais, Southeast Region, Brazil",
+    "lat": -20.4867048,
+    "lon": -45.615427
+  },
+  "bama|": {
+    "display_name": "Bama Yao Autonomous County, Hechi, Guangxi, China",
+    "lat": 24.1437442,
+    "lon": 107.2558901
+  },
+  "bama|nan": {
+    "display_name": "Bama, Zuozhen Village, Zuozhen District, Tainan, 713, Taiwan",
+    "lat": 23.05529,
+    "lon": 120.405266
+  },
+  "bankim|": {
+    "display_name": "Bankim, Mayo-Banyo, Adamawa, Cameroon",
+    "lat": 6.082783,
+    "lon": 11.487415
+  },
+  "bankim|nan": {
+    "display_name": "Bankim, Boven Digoel, South Papua, Indonesia",
+    "lat": -5.5530965,
+    "lon": 140.9980044
+  },
+  "beluluane region|": null,
+  "beluluane region|nan": null,
+  "benfica|": {
+    "display_name": "Benfica, Lisbon, Portugal",
+    "lat": 38.7481712,
+    "lon": -9.1994775
+  },
+  "benfica|nan": {
+    "display_name": "Benfica, Rio de Janeiro, Southeast Region, Brazil",
+    "lat": -22.8922965,
+    "lon": -43.240341
+  },
+  "boane|": {
+    "display_name": "Boane, Maputo Province, Zona Sul, Mozambique",
+    "lat": -26.0290266,
+    "lon": 32.3842823
+  },
+  "boane|nan": null,
+  "boromo|": {
+    "display_name": "Boromo, Balé, Boucle du Mouhoun, Burkina Faso",
+    "lat": 11.7447567,
+    "lon": -2.9300274
+  },
+  "boromo|nan": null,
+  "bulambuli|": {
+    "display_name": "Bulambuli, Eastern Region, Uganda",
+    "lat": 1.3494989,
+    "lon": 34.2760949
+  },
+  "bulambuli|nan": null,
+  "bulambya|": null,
+  "bulambya|nan": null,
+  "burkina faso|": {
+    "display_name": "Burkina Faso",
+    "lat": 12.0753083,
+    "lon": -1.6880314
+  },
+  "burkina faso|nan": {
+    "display_name": "Société Générale Burkina Faso, N 5, Tamona, Tambolo, Pô, Nahouri, Central-South, Burkina Faso",
+    "lat": 11.1768211,
+    "lon": -1.1444899
+  },
+  "calueque|": {
+    "display_name": "Calueque, Cunene Province, Angola",
+    "lat": -17.278636,
+    "lon": 14.53663
+  },
+  "calueque|nan": null,
+  "catuane|": {
+    "display_name": "Centro de Saude de Catuane, Matutuíne, Maputo Province, Zona Sul, Mozambique",
+    "lat": -26.8400373,
+    "lon": 32.2859189
+  },
+  "catuane|nan": null,
+  "chibuto|": {
+    "display_name": "Chibuto, Gaza Province, Zona Sul, Mozambique",
+    "lat": -24.2656131,
+    "lon": 33.5490566
+  },
+  "chibuto|nan": null,
+  "chikwawa district|": {
+    "display_name": "Chikwawa District Education Office, T416, Kapichira, Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.0234507,
+    "lon": 34.7902969
+  },
+  "chikwawa district|nan": {
+    "display_name": "Chikwawa District Education Office, T416, Kapichira, Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.0234507,
+    "lon": 34.7902969
+  },
+  "chikwawa|": {
+    "display_name": "Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.2153819,
+    "lon": 34.7228393
+  },
+  "chikwawa|nan": {
+    "display_name": "Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.2153819,
+    "lon": 34.7228393
+  },
+  "chipata|": {
+    "display_name": "Chipata, Chipata District, Eastern Province, Zambia",
+    "lat": -13.6391314,
+    "lon": 32.6458437
+  },
+  "chipata|nan": {
+    "display_name": "Chipata Road, Dambwa, Livingstone, Livingstone District, Southern Province, Zambia",
+    "lat": -17.8527809,
+    "lon": 25.8390196
+  },
+  "chokwe|": {
+    "display_name": "Chokwe, Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.4547758,
+    "lon": 35.0129933
+  },
+  "chokwe|nan": {
+    "display_name": "Chokwe, Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -16.4547758,
+    "lon": 35.0129933
+  },
+  "ciagi-ini|": null,
+  "ciagi-ini|nan": null,
+  "costa dol sol|": null,
+  "costa dol sol|nan": null,
+  "dielmo|": {
+    "display_name": "Dielmo 3D S.L., 2, Plaça Vicent Andrés Estellés, Montealegre, Xirivella, l'Horta Sud, Valencia, Valencian Community, 46950, Spain",
+    "lat": 39.4661141,
+    "lon": -0.4321837
+  },
+  "dielmo|nan": null,
+  "dirze|": null,
+  "dirze|nan": null,
+  "diébougou|": {
+    "display_name": "Diébougou, Bougouriba, Southwest, Burkina Faso",
+    "lat": 10.9648093,
+    "lon": -3.2674441
+  },
+  "diébougou|nan": {
+    "display_name": "Diébougou, Bougouriba, Southwest, Burkina Faso",
+    "lat": 10.9648093,
+    "lon": -3.2674441
+  },
+  "fenoarivo|": {
+    "display_name": "Fenoarivo, Ambalavao, Haute Matsiatra, Province de Fianarantsoa, Madagascar",
+    "lat": -21.718481,
+    "lon": 46.381434
+  },
+  "fenoarivo|nan": {
+    "display_name": "Fenoarivo, Faratsiho, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.3108273,
+    "lon": 46.8252026
+  },
+  "ferroviario|": {
+    "display_name": "Ferroviario Mitre, Cordoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina",
+    "lat": -31.4341173,
+    "lon": -64.137736
+  },
+  "ferroviario|nan": {
+    "display_name": "Ferroviário, Ijuí, Rio Grande do Sul, South Region, Brazil",
+    "lat": -28.3723055,
+    "lon": -53.9315392
+  },
+  "fort ternan|": {
+    "display_name": "Fort Ternan, Chilchila ward, Kipkelion West, Kericho County, Kenya",
+    "lat": -0.204291,
+    "lon": 35.343505
+  },
+  "fort ternan|nan": null,
+  "foumban|": {
+    "display_name": "Foumban, Noun, West, Cameroon",
+    "lat": 5.7282262,
+    "lon": 10.8971603
+  },
+  "foumban|nan": null,
+  "furvela|": {
+    "display_name": "Furvela, Morrumbene, Inhambane Province, Zona Sul, Mozambique",
+    "lat": -23.7151828,
+    "lon": 35.3084276
+  },
+  "furvela|nan": null,
+  "gajerar giwa|": null,
+  "gajerar giwa|nan": null,
+  "gankette balla|": null,
+  "gankette balla|nan": null,
+  "gbanikola|": null,
+  "gbanikola|nan": null,
+  "geita|": {
+    "display_name": "Geita, Lake Zone, Tanzania",
+    "lat": -3.1865265,
+    "lon": 32.0855702
+  },
+  "geita|nan": null,
+  "gembe east|": null,
+  "gembe east|nan": null,
+  "gembe west|": null,
+  "gembe west|nan": null,
+  "gitega|": {
+    "display_name": "Gitega, Burundi",
+    "lat": -3.4284953,
+    "lon": 29.9249718
+  },
+  "gitega|nan": {
+    "display_name": "Gitega, Kibangu, Muhanga District, Southern Province, Rwanda",
+    "lat": -1.8490376,
+    "lon": 29.6831947
+  },
+  "gounougou|": {
+    "display_name": "Gounougou, Bibemi, Bénoué, North, Cameroon",
+    "lat": 9.0704234,
+    "lon": 13.6946939
+  },
+  "gounougou|nan": null,
+  "great rift valley|": {
+    "display_name": "Great Rift Valley, Teltele, Borena, Oromia Region, Ethiopia",
+    "lat": 5.0,
+    "lon": 37.0
+  },
+  "great rift valley|nan": null,
+  "honde|": {
+    "display_name": "Honde, Manica, Manica Province, Zona Centro, Mozambique",
+    "lat": -18.5048337,
+    "lon": 32.9235535
+  },
+  "honde|nan": {
+    "display_name": "南山湯飯, 8, Dongmak-ro 3-gil, 홍대, Seogyo-dong, Hapjeong-dong, Mapo-gu, Seoul, 04047, South Korea",
+    "lat": 37.5487592,
+    "lon": 126.9166363
+  },
+  "ifakara mjini|": null,
+  "ifakara mjini|nan": null,
+  "ifakara town|": {
+    "display_name": "Ifakara Town, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1321004,
+    "lon": 36.6848455
+  },
+  "ifakara town|nan": null,
+  "iguhu|": {
+    "display_name": "Malinya-Iguhu Road, Makhokho, Idakho East ward, Ikolomani, Kakamega County, Kenya",
+    "lat": 0.1745585,
+    "lon": 34.7305102
+  },
+  "iguhu|nan": null,
+  "ileje district|": {
+    "display_name": "Ileje District Council, Ileje, Songwe Region, Southern Highlands Zone, Tanzania",
+    "lat": -9.4091533,
+    "lon": 33.1812749
+  },
+  "ileje district|nan": null,
+  "infulene|": {
+    "display_name": "Infulene, Matola, Maputo Province, Zona Sul, 1114, Mozambique",
+    "lat": -25.9110196,
+    "lon": 32.5168741
+  },
+  "infulene|nan": null,
+  "ividie|": {
+    "display_name": "Evidié, Zawara, Sanguié, Central-West, Burkina Faso",
+    "lat": 11.8226859,
+    "lon": -2.635356
+  },
+  "ividie|nan": null,
+  "jaribuni|": {
+    "display_name": "Jaribuni, Tunduru, Ruvuma Region, Southern Highlands Zone, Tanzania",
+    "lat": -10.7013508,
+    "lon": 37.0244714
+  },
+  "jaribuni|nan": null,
+  "jilore village|": {
+    "display_name": "Jilore, Jilore ward, Malindi, Kilifi County, Kenya",
+    "lat": -3.1833583,
+    "lon": 39.9002031
+  },
+  "jilore village|nan": null,
+  "jimiso|": {
+    "display_name": "Jimiso Methodist Primary School, IR3, Akaporiso, Asonkore, Obuasi East Municipal District, Ashanti Region, Ghana",
+    "lat": 6.1576586,
+    "lon": -1.6284324
+  },
+  "jimiso|nan": null,
+  "jinja|": {
+    "display_name": "Jinja, Eastern Region, Uganda",
+    "lat": 0.5751567,
+    "lon": 33.2805299
+  },
+  "jinja|nan": {
+    "display_name": "Yasaka Shrine, Higashioji Street, Giommachi-Kitagawa, 辰巳町, Higashiyama Ward, Kyoto, Kyoto Prefecture, 605-0062, Japan",
+    "lat": 35.0036027,
+    "lon": 135.7782611
+  },
+  "kakira|": {
+    "display_name": "Kakira, Jinja, Eastern Region, Uganda",
+    "lat": 0.508333,
+    "lon": 33.287778
+  },
+  "kakira|nan": null,
+  "kakola ombaka|": null,
+  "kakola ombaka|nan": null,
+  "kaliwa|": {
+    "display_name": "Kaliwa, 751, Wharf Street Southwest, The Wharf, Southwest Waterfront, Ward 6, Washington, District of Columbia, 20024, United States",
+    "lat": 38.8787332,
+    "lon": -77.0243796
+  },
+  "kaliwa|nan": null,
+  "kamuli|": {
+    "display_name": "Kamuli, Eastern Region, Uganda",
+    "lat": 0.9422475,
+    "lon": 33.1263004
+  },
+  "kamuli|nan": null,
+  "kangichiri|": null,
+  "kangichiri|nan": null,
+  "kanyaboli|": {
+    "display_name": "Lake Kanyaboli, Ratuoro, Central Alego ward, Alego Usonga, Siaya County, Kenya",
+    "lat": 0.0527603,
+    "lon": 34.1599618
+  },
+  "kanyaboli|nan": null,
+  "karima|": {
+    "display_name": "Karima, Merwoe  مروي, Northern State, Sudan",
+    "lat": 18.55,
+    "lon": 31.85
+  },
+  "karima|nan": {
+    "display_name": "Karima, Kalanti, Uusikaupunki, Vakka-Suomi sub-region, Southwest Finland, Mainland Finland, Finland",
+    "lat": 60.8372461,
+    "lon": 21.543006
+  },
+  "karonga|": {
+    "display_name": "Karonga, Northern Region, Malawi, Malawi",
+    "lat": -10.0847469,
+    "lon": 33.8661918
+  },
+  "karonga|nan": {
+    "display_name": "Karonga, Nsanje, Southern Region, Malawi, Malawi",
+    "lat": -16.5269558,
+    "lon": 35.1748316
+  },
+  "karuzi province|": {
+    "display_name": "Karuzi, Burundi",
+    "lat": -3.1011687,
+    "lon": 30.1647524
+  },
+  "karuzi province|nan": null,
+  "karuzi|": {
+    "display_name": "Karuzi, Burundi",
+    "lat": -3.1255377,
+    "lon": 30.0978347
+  },
+  "karuzi|nan": null,
+  "katindiuka|": {
+    "display_name": "Katindiuka, Ifakara Town, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1302427,
+    "lon": 36.7035119
+  },
+  "katindiuka|nan": null,
+  "kebisoni|": {
+    "display_name": "Kebisoni, Rukungiri, Western Region, Uganda",
+    "lat": -0.921111,
+    "lon": 30.036667
+  },
+  "kebisoni|nan": null,
+  "kedougou area|": null,
+  "kedougou area|nan": null,
+  "kedougou|": {
+    "display_name": "Kedougou, Département de Kédougou, Kédougou Region, 26005, Senegal",
+    "lat": 12.5570752,
+    "lon": -12.1855655
+  },
+  "kedougou|nan": null,
+  "kengatunyi|": null,
+  "kengatunyi|nan": null,
+  "kenya|": {
+    "display_name": "Kenya",
+    "lat": 0.2793165,
+    "lon": 37.5164935
+  },
+  "kenya|nan": {
+    "display_name": "Kenya, Mutambala, Fizi, South Kivu, Democratic Republic of the Congo",
+    "lat": -4.2206702,
+    "lon": 29.0827042
+  },
+  "kiamachiri|": null,
+  "kiamachiri|nan": null,
+  "kibuogi|": null,
+  "kibuogi|nan": null,
+  "kihihi|": {
+    "display_name": "Kihihi, Nyaka Sub-County, Kanungu, Western Region, Uganda",
+    "lat": -0.7493074,
+    "lon": 29.6998961
+  },
+  "kihihi|nan": null,
+  "kintampo north and south districts|": null,
+  "kintampo north and south districts|nan": null,
+  "kisegese|": {
+    "display_name": "Kisegese, Kilombero, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1594032,
+    "lon": 36.3411553
+  },
+  "kisegese|nan": null,
+  "kisian|": {
+    "display_name": "Kisian, Kisumu, City of Kisumu, Kisumu West, Kisumu County, Kenya",
+    "lat": -0.0730783,
+    "lon": 34.6637665
+  },
+  "kisian|nan": null,
+  "kisii central district|": null,
+  "kisii central district|nan": null,
+  "kisii|": {
+    "display_name": "Kisii County, Kenya",
+    "lat": -0.7389425,
+    "lon": 34.7539855
+  },
+  "kisii|nan": null,
+  "kisumu-siaya|": {
+    "display_name": "Kisumu-Busia Road, Ulumba, Ugunja ward, Ugunja, Siaya County, Kenya",
+    "lat": 0.2162441,
+    "lon": 34.2633238
+  },
+  "kisumu-siaya|nan": null,
+  "kisumu|": {
+    "display_name": "Kisumu, City of Kisumu, Kisumu County, Kenya",
+    "lat": -0.1029109,
+    "lon": 34.7541761
+  },
+  "kisumu|nan": {
+    "display_name": "Kisumu-Vihiga Road, Terik ward, Aldai, Nandi County, Kenya",
+    "lat": -0.0118759,
+    "lon": 34.7452704
+  },
+  "kiuria|": {
+    "display_name": "Kiuria, Thiba ward, Mwea West, Kirinyaga County, 10303, Kenya",
+    "lat": -0.6666158,
+    "lon": 37.3166083
+  },
+  "kiuria|nan": null,
+  "kombewa|": {
+    "display_name": "Kombewa, Central Seme ward, Seme, Kisumu County, Kenya",
+    "lat": -0.1091443,
+    "lon": 34.525493
+  },
+  "kombewa|nan": null,
+  "kongo|": {
+    "display_name": "Congo, Democratic Republic of the Congo",
+    "lat": -0.6494883,
+    "lon": 17.6652217
+  },
+  "kongo|nan": {
+    "display_name": "Kongo, Meyomessi, Dja-et-Lobo, South, Cameroon",
+    "lat": 2.7976016,
+    "lon": 12.1768278
+  },
+  "korania|": {
+    "display_name": "Korania market, R116, Navrongo, Kassena-Nankana Municipal District, Upper East Region, Ghana",
+    "lat": 10.8396361,
+    "lon": -1.0978284
+  },
+  "korania|nan": null,
+  "korhogo|": {
+    "display_name": "Korhogo, Poro, Savanes, Ivory Coast",
+    "lat": 9.4580698,
+    "lon": -5.6316293
+  },
+  "korhogo|nan": null,
+  "koubri-kuiti|": {
+    "display_name": "Kuiti, Koubri, Kadiogo, Centre, Burkina Faso",
+    "lat": 12.18637,
+    "lon": -1.3881399
+  },
+  "koubri-kuiti|nan": null,
+  "koubri|": {
+    "display_name": "Koubri, Kadiogo, Centre, Burkina Faso",
+    "lat": 12.1871269,
+    "lon": -1.4005212
+  },
+  "koubri|nan": {
+    "display_name": "Chapelle Evangélique Chambre Haute-AD/Koubri, N 5, Kombissiri Secteur 3, Séloghin, Koubri, Kombissiri, Kadiogo, Centre, Burkina Faso",
+    "lat": 12.1661818,
+    "lon": -1.3944633
+  },
+  "kouvar|": null,
+  "kouvar|nan": null,
+  "kuiti|": {
+    "display_name": "Kuiti, Koubri, Kadiogo, Centre, Burkina Faso",
+    "lat": 12.18637,
+    "lon": -1.3881399
+  },
+  "kuiti|nan": null,
+  "kwazulu/natal|": {
+    "display_name": "KwaZulu-Natal, South Africa",
+    "lat": -28.503833,
+    "lon": 30.8875009
+  },
+  "kwazulu/natal|nan": null,
+  "lagdo|": {
+    "display_name": "Lagdo, Bénoué, North, Cameroon",
+    "lat": 9.0574802,
+    "lon": 13.6653588
+  },
+  "lagdo|nan": null,
+  "lake victoria basin|": {
+    "display_name": "East African community- lake Victoria basin commision, Old Airport Road, Airport, Bandari sublocation, Kisumu Central, Kisumu, City of Kisumu, Kisumu County, 40141, Kenya",
+    "lat": -0.0916436,
+    "lon": 34.7340782
+  },
+  "lake victoria basin|nan": null,
+  "lankan|": {
+    "display_name": "Lankan, Pankshin, Plateau State, Nigeria",
+    "lat": 9.3090672,
+    "lon": 9.3270636
+  },
+  "lankan|nan": {
+    "display_name": "Lankan Railway Cafe, 1, Morts Road, Mortdale, St George, Sydney, New South Wales, 2223, Australia",
+    "lat": -33.9709958,
+    "lon": 151.0803285
+  },
+  "lena|": {
+    "display_name": "Lena River, Far Eastern Federal District, Russia",
+    "lat": 60.6398228,
+    "lon": 121.2889411
+  },
+  "lena|nan": {
+    "display_name": "Lena, Hampton County, South Carolina, 29918, United States",
+    "lat": 32.7535025,
+    "lon": -81.2151029
+  },
+  "likoko|": {
+    "display_name": "Likoko, Muyuka, Fako, Southwest, Cameroon",
+    "lat": 4.3964527,
+    "lon": 9.3207857
+  },
+  "likoko|nan": {
+    "display_name": "Likoko, Muyuka, Fako, Southwest, Cameroon",
+    "lat": 4.3964527,
+    "lon": 9.3207857
+  },
+  "likoma island|": {
+    "display_name": "Likoma Island, Chiponde, Ilha Likoma, Likoma, Northern Region, Malawi, Malawi",
+    "lat": -12.0657337,
+    "lon": 34.7316261
+  },
+  "likoma island|nan": null,
+  "likomba|": {
+    "display_name": "Likomba, Blantyre, Southern Region, Malawi, Malawi",
+    "lat": -15.673249,
+    "lon": 35.0994945
+  },
+  "likomba|nan": {
+    "display_name": "Likomba, Blantyre, Southern Region, Malawi, Malawi",
+    "lat": -15.673249,
+    "lon": 35.0994945
+  },
+  "lipangalala|": {
+    "display_name": "Lipangalala, Ifakara Town, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1503935,
+    "lon": 36.6842143
+  },
+  "lipangalala|nan": null,
+  "lira|": {
+    "display_name": "Lira, Uganda",
+    "lat": 2.3320326,
+    "lon": 32.9501481
+  },
+  "lira|nan": {
+    "display_name": "Lira, Estância Velha, Rio Grande do Sul, South Region, 93615-130, Brazil",
+    "lat": -29.6525332,
+    "lon": -51.1870201
+  },
+  "luanda nyamasare|": {
+    "display_name": "Luanda-Nyamasare Market, Homa Bay-Mbita Road, Luanda Nyamasere, Kasgunga ward, Mbita, Homa Bay County, Kenya",
+    "lat": -0.4753846,
+    "lon": 34.287287
+  },
+  "luanda nyamasare|nan": null,
+  "luis cabral|": {
+    "display_name": "Luís Cabral, Distrito Municipal de KaMubukwana, Maputo, Zona Sul, 0105-08, Mozambique",
+    "lat": -25.9364685,
+    "lon": 32.5388991
+  },
+  "luis cabral|nan": {
+    "display_name": "Rua Luís Carlos Cabral, Parque Anchieta, Rio de Janeiro, Southeast Region, 21620-510, Brazil",
+    "lat": -22.8339482,
+    "lon": -43.4160474
+  },
+  "lunyerere|": {
+    "display_name": "Lunyerere, Mpigi, Central Region, Uganda",
+    "lat": 0.1595304,
+    "lon": 32.2235113
+  },
+  "lunyerere|nan": null,
+  "lwanda village|": {
+    "display_name": "Lwanda, Masaka City, Central Region, Uganda",
+    "lat": -0.2520238,
+    "lon": 31.8023116
+  },
+  "lwanda village|nan": null,
+  "maciana|": {
+    "display_name": "Barranc de la Maciana, Morella, els Ports, Castelló / Castellón, Valencian Community, Spain",
+    "lat": 40.5812883,
+    "lon": -0.0301186
+  },
+  "maciana|nan": null,
+  "mafambisse|": {
+    "display_name": "Mafambisse, Dondo, Sofala Province, Zona Centro, Mozambique",
+    "lat": -19.5460367,
+    "lon": 34.6325547
+  },
+  "mafambisse|nan": null,
+  "magaoni|": {
+    "display_name": "Magaoni, Shika Adabu ward, Likoni, Mombasa County, Kenya",
+    "lat": -4.1373302,
+    "lon": 39.6319527
+  },
+  "magaoni|nan": null,
+  "maga|": {
+    "display_name": "Maga, Y001, Dewu, Zhongshan, Liupanshui, Guizhou, China",
+    "lat": 26.6219842,
+    "lon": 104.7733188
+  },
+  "maga|nan": {
+    "display_name": "Maga, Rua São João Batista, Centro, Campos Novos, Santa Catarina, South Region, 89620-000, Brazil",
+    "lat": -27.4015909,
+    "lon": -51.2255011
+  },
+  "magude sede|": null,
+  "magude sede|nan": null,
+  "mahatsinjo|": {
+    "display_name": "Mahatsinjo, Vondrozo, Atsimo-Atsinanana, Province de Fianarantsoa, Madagascar",
+    "lat": -22.814183,
+    "lon": 47.452926
+  },
+  "mahatsinjo|nan": {
+    "display_name": "Mahatsinjo, Antsirabe, Antsirabe I, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.8943333,
+    "lon": 47.0498841
+  },
+  "mahotas|": {
+    "display_name": "Mahotas, Distrito Municipal de KaMavota, Maputo, Zona Sul, 0104-09, Mozambique",
+    "lat": -25.8741115,
+    "lon": 32.6205976
+  },
+  "mahotas|nan": null,
+  "majajani|": null,
+  "majajani|nan": null,
+  "majete|": {
+    "display_name": "Majete, North Shewa (Amhara Region), Amhara Region, Ethiopia",
+    "lat": 10.4926887,
+    "lon": 39.864471
+  },
+  "majete|nan": {
+    "display_name": "Majete, Chikwawa, Southern Region, Malawi, Malawi",
+    "lat": -15.9019459,
+    "lon": 34.5729017
+  },
+  "malanville|": {
+    "display_name": "Malanville, Alibori Department, Benin",
+    "lat": 11.8618128,
+    "lon": 3.3862982
+  },
+  "malanville|nan": null,
+  "malindi|": {
+    "display_name": "Malindi, Mjini, Zanzibar Urban/West, Zanzibar, 71103, Tanzania",
+    "lat": -6.1577281,
+    "lon": 39.1965624
+  },
+  "malindi|nan": {
+    "display_name": "Malindi, Chowe, Mangochi, Southern Region, Malawi, Malawi",
+    "lat": -14.3385086,
+    "lon": 35.2879346
+  },
+  "manarintsoa|": {
+    "display_name": "Manarintsoa, Antananarivo, Analamanga, Province d’Antananarivo, 101, Madagascar",
+    "lat": -18.9125971,
+    "lon": 47.5133988
+  },
+  "manarintsoa|nan": {
+    "display_name": "EPP Manarintsoa, Antsirabe II, Vakinankaratra, Province d’Antananarivo, Madagascar",
+    "lat": -19.8824635,
+    "lon": 47.2335483
+  },
+  "mangwanda|": null,
+  "mangwanda|nan": null,
+  "manhiça district|": {
+    "display_name": "Rua de Manhiça, Olivais Sul, Célula E, Olivais, Lisbon, 1800-245, Portugal",
+    "lat": 38.7598195,
+    "lon": -9.1078541
+  },
+  "manhiça district|nan": null,
+  "marani|": {
+    "display_name": "Marani, Kisii County, Kenya",
+    "lat": -0.5661618,
+    "lon": 34.8132115
+  },
+  "marani|nan": {
+    "display_name": "Marani, 92, Oude Delft, City Centre, Delft, South Holland, Netherlands, 2611 CE, Netherlands",
+    "lat": 52.0104774,
+    "lon": 4.3571036
+  },
+  "masindi|": {
+    "display_name": "Masindi, Western Region, Uganda",
+    "lat": 1.6917534,
+    "lon": 31.7737524
+  },
+  "masindi|nan": null,
+  "masogo|": {
+    "display_name": "MASOGO, Masogo/Nyang'oma ward, Muhoroni, Kisumu County, Kenya",
+    "lat": -0.0974536,
+    "lon": 35.0084465
+  },
+  "masogo|nan": null,
+  "matola|": {
+    "display_name": "Matola, Maputo Province, Zona Sul, Mozambique",
+    "lat": -25.966917,
+    "lon": 32.466956
+  },
+  "matola|nan": {
+    "display_name": "Matola, Balaka, Southern Region, Malawi, Malawi",
+    "lat": -14.9157445,
+    "lon": 34.9454141
+  },
+  "mbale|": {
+    "display_name": "Mbale, Eastern Region, Uganda",
+    "lat": 0.9765706,
+    "lon": 34.2021869
+  },
+  "mbale|nan": {
+    "display_name": "Mbale, Zomba, Southern Region, Malawi, Malawi",
+    "lat": -15.3915612,
+    "lon": 35.316114
+  },
+  "mbebe|": {
+    "display_name": "Mbebe, Ileje, Songwe Region, Southern Highlands Zone, Tanzania",
+    "lat": -9.3248617,
+    "lon": 32.9615483
+  },
+  "mbebe|nan": {
+    "display_name": "Mbébé, Lokoundjé, Océan, South, Cameroon",
+    "lat": 3.4083722,
+    "lon": 10.1205362
+  },
+  "mbilor|": {
+    "display_name": "Mbilor, Communauté rurale de Bokhol, Arrondissement de Mbane, Département de Dagana, Saint-Louis Region, Senegal",
+    "lat": 16.4850749,
+    "lon": -15.56154
+  },
+  "mbilor|nan": null,
+  "mbinga|": {
+    "display_name": "Mbinga, Ruvuma Region, Southern Highlands Zone, Tanzania",
+    "lat": -10.704886,
+    "lon": 34.9557066
+  },
+  "mbinga|nan": {
+    "display_name": "Ecole primaire Mbinga, RN2, Nyabibwe, Buhavu (chefferie), Kalehe, South Kivu, Democratic Republic of the Congo",
+    "lat": -1.9226889,
+    "lon": 28.9364139
+  },
+  "mbita district|": {
+    "display_name": "District Gender and Social Development Office, Homa Bay-Mbita Road, Mbita, Kasgunga ward, Mbita, Homa Bay County, 40305, Kenya",
+    "lat": -0.4266009,
+    "lon": 34.2081254
+  },
+  "mbita district|nan": {
+    "display_name": "Mbita Market, Moshi Street, Burton, Livingstone, Livingstone District, Southern Province, Zambia",
+    "lat": -17.8380484,
+    "lon": 25.8778846
+  },
+  "mbita division|": null,
+  "mbita division|nan": null,
+  "mboula|": {
+    "display_name": "Mboula, Mambéré-Kadéï, Central African Republic",
+    "lat": 4.4391067,
+    "lon": 16.4856504
+  },
+  "mboula|nan": {
+    "display_name": "Mboula, Zoetou II, Mintom, Dja-et-Lobo, South, Cameroon",
+    "lat": 2.7516178,
+    "lon": 13.3557898
+  },
+  "mbuinjeru|": null,
+  "mbuinjeru|nan": null,
+  "meanja|": {
+    "display_name": "Meanja, Muyuka, Fako, Southwest, Cameroon",
+    "lat": 4.2653417,
+    "lon": 9.3942524
+  },
+  "meanja|nan": {
+    "display_name": "Meanja, Muyuka, Fako, Southwest, Cameroon",
+    "lat": 4.2653417,
+    "lon": 9.3942524
+  },
+  "mfangano island|": {
+    "display_name": "Mfangano Island, Mfangano Island ward, Mbita, Homa Bay County, Kenya",
+    "lat": -0.4596485,
+    "lon": 34.0096862
+  },
+  "mfangano island|nan": null,
+  "mfou|": {
+    "display_name": "Mfou, Méfou-et-Afamba, Centre, Cameroon",
+    "lat": 3.7158818,
+    "lon": 11.6432106
+  },
+  "mfou|nan": null,
+  "mibellon|": null,
+  "mibellon|nan": null,
+  "miwani|": {
+    "display_name": "Miwani, Miwani ward, Muhoroni, Kisumu County, Kenya",
+    "lat": -0.0770616,
+    "lon": 34.9838626
+  },
+  "miwani|nan": null,
+  "mlabani|": {
+    "display_name": "Mlabani, Ifakara Town, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1469655,
+    "lon": 36.6904947
+  },
+  "mlabani|nan": null,
+  "moamba|": {
+    "display_name": "Moamba, Maputo Province, Zona Sul, Mozambique",
+    "lat": -25.6011691,
+    "lon": 32.2448906
+  },
+  "moamba|nan": {
+    "display_name": "Moyamba, Moyamba District, Southern Province, Sierra Leone, Sierra Leone",
+    "lat": 8.1593455,
+    "lon": -12.4313893
+  },
+  "morilla mine|": null,
+  "morilla mine|nan": null,
+  "motaze|": {
+    "display_name": "Centro de Saude de Mutaze, R412, Magude, Maputo Province, Zona Sul, Mozambique",
+    "lat": -24.7995012,
+    "lon": 32.8592384
+  },
+  "motaze|nan": null,
+  "mpumalanga|": {
+    "display_name": "Mpumalanga, South Africa",
+    "lat": -26.276849,
+    "lon": 30.1500153
+  },
+  "mpumalanga|nan": null,
+  "mulanje|": {
+    "display_name": "Mulanje, Southern Region, Malawi, Malawi",
+    "lat": -15.91088,
+    "lon": 35.541255
+  },
+  "mulanje|nan": {
+    "display_name": "Mulanje, Southern Region, Malawi, Malawi",
+    "lat": -15.91088,
+    "lon": 35.541255
+  },
+  "murinduko|": {
+    "display_name": "Murinduko, Turi ward, Molo, Nakuru, 20102, Kenya",
+    "lat": -0.2833421,
+    "lon": 35.7652317
+  },
+  "murinduko|nan": null,
+  "mutaho|": {
+    "display_name": "Mutaho, Gitega, Burundi",
+    "lat": -3.1436745,
+    "lon": 29.8664414
+  },
+  "mutaho|nan": null,
+  "mutengene|": {
+    "display_name": "Mutengene, Tiko, Fako, Southwest, Cameroon",
+    "lat": 4.09011,
+    "lon": 9.3169578
+  },
+  "mutengene|nan": {
+    "display_name": "Mutengene, Tiko, Fako, Southwest, Cameroon",
+    "lat": 4.09011,
+    "lon": 9.3169578
+  },
+  "mwea division|": null,
+  "mwea division|nan": null,
+  "mwea rice irrigation scheme|": null,
+  "mwea rice irrigation scheme|nan": null,
+  "nagongera|": {
+    "display_name": "Nagongera B, Tororo, Eastern Region, Uganda",
+    "lat": 0.76505,
+    "lon": 34.0379924
+  },
+  "nagongera|nan": null,
+  "namwala|": {
+    "display_name": "Namwala, Namwala District, Southern Province, Zambia",
+    "lat": -15.7511868,
+    "lon": 26.4371121
+  },
+  "namwala|nan": {
+    "display_name": "Namwala, Namwala District, Southern Province, Zambia",
+    "lat": -15.7511868,
+    "lon": 26.4371121
+  },
+  "nasarawa state|": {
+    "display_name": "Nasarawa State, Nigeria",
+    "lat": 8.4387868,
+    "lon": 8.2382849
+  },
+  "nasarawa state|nan": null,
+  "nchelenge|": {
+    "display_name": "Nchelenge, Nchelenge District, Luapula Province, Zambia",
+    "lat": -9.3476333,
+    "lon": 28.7352607
+  },
+  "nchelenge|nan": {
+    "display_name": "Nchelenge Street, Highlands, Livingstone, Livingstone District, Southern Province, Zambia",
+    "lat": -17.8384483,
+    "lon": 25.8575102
+  },
+  "ndola|": {
+    "display_name": "Ndola, Ndola District, Copperbelt Province, Zambia",
+    "lat": -12.9693056,
+    "lon": 28.6365894
+  },
+  "ndola|nan": {
+    "display_name": "Ndola, Ngweshe (chefferie), Walungu, South Kivu, Democratic Republic of the Congo",
+    "lat": -2.7065333,
+    "lon": 28.5760167
+  },
+  "ndumu|": {
+    "display_name": "Ndumu, Jozini Ward 16, Ndumo, Jozini Local Municipality, Umkhanyakude District Municipality, KwaZulu-Natal, South Africa",
+    "lat": -26.9259671,
+    "lon": 32.2526137
+  },
+  "ndumu|nan": null,
+  "ngaoundere|": {
+    "display_name": "Ngaoundéré, Ngaoundéré II, Communauté urbaine de Ngaoundéré, Vina, Adamawa, Cameroon",
+    "lat": 7.3211536,
+    "lon": 13.5878214
+  },
+  "ngaoundere|nan": null,
+  "ngodhe|": {
+    "display_name": "Ngodhe Island, Wanyama sublocation, Rusinga Island ward, Mbita, Homa Bay County, Kenya",
+    "lat": -0.3536584,
+    "lon": 34.191485
+  },
+  "ngodhe|nan": null,
+  "nkhotakota|": {
+    "display_name": "Nkhotakota, Central Region, Malawi, Malawi",
+    "lat": -12.8321965,
+    "lon": 34.0329177
+  },
+  "nkhotakota|nan": null,
+  "nkoteng|": {
+    "display_name": "Nkoteng, Haute-Sanaga, Centre, Cameroon",
+    "lat": 4.5046903,
+    "lon": 12.1187119
+  },
+  "nkoteng|nan": null,
+  "north kwazulu/natal|": {
+    "display_name": "Durban North, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4051, South Africa",
+    "lat": -29.780556,
+    "lon": 31.035833
+  },
+  "north kwazulu/natal|nan": null,
+  "ntui|": {
+    "display_name": "Ntui, Mbam-et-Kim, Centre, Cameroon",
+    "lat": 4.4459307,
+    "lon": 11.6281209
+  },
+  "ntui|nan": {
+    "display_name": "Eyang Ntui, Mamfe, Manyu, Southwest, Cameroon",
+    "lat": 5.7700427,
+    "lon": 9.4051515
+  },
+  "nyalenda|": {
+    "display_name": "Nyalenda, Sit-Kanyumba Road, Kathieno A, East Ugenya ward, Ugenya, Siaya County, Kenya",
+    "lat": 0.2881986,
+    "lon": 34.303972
+  },
+  "nyalenda|nan": null,
+  "nyando river|": {
+    "display_name": "Nyando River, Sigowet/Soin, Kericho County, Kenya",
+    "lat": -0.2016268,
+    "lon": 35.2392765
+  },
+  "nyando river|nan": null,
+  "nyanza province|": {
+    "display_name": "Nyanza District, Southern Province, Rwanda",
+    "lat": -2.3430532,
+    "lon": 29.7702241
+  },
+  "nyanza province|nan": {
+    "display_name": "Nyanza District, Southern Province, Rwanda",
+    "lat": -2.3430532,
+    "lon": 29.7702241
+  },
+  "nyaroya village|": null,
+  "nyaroya village|nan": null,
+  "obout|": {
+    "display_name": "Obout, Woleu, Woleu-Ntem, Gabon",
+    "lat": 1.7173024,
+    "lon": 11.5730351
+  },
+  "obout|nan": null,
+  "obuasi|": {
+    "display_name": "Obuasi, Obuasi Municipal District, Ashanti Region, Ghana",
+    "lat": 6.211542,
+    "lon": -1.6894045
+  },
+  "obuasi|nan": null,
+  "odioi|": {
+    "display_name": "Odioi, Amukura West ward, Teso South, Busia County, 50408, Kenya",
+    "lat": 0.5855915,
+    "lon": 34.2301659
+  },
+  "odioi|nan": null,
+  "pahou|": {
+    "display_name": "Pahou, Ouidah, Atlantique Department, Benin",
+    "lat": 6.3838712,
+    "lon": 2.2127617
+  },
+  "pahou|nan": null,
+  "palmeira|": {
+    "display_name": "Palmeira das Missões, Rio Grande do Sul, South Region, 98300-000, Brazil",
+    "lat": -27.9010519,
+    "lon": -53.3135927
+  },
+  "palmeira|nan": {
+    "display_name": "Palmeira das Missões, Rio Grande do Sul, South Region, 98300-000, Brazil",
+    "lat": -27.9010519,
+    "lon": -53.3135927
+  },
+  "pehele|": null,
+  "pehele|nan": null,
+  "petionara|": null,
+  "petionara|nan": null,
+  "plateau state|": {
+    "display_name": "Plateau State, Nigeria",
+    "lat": 9.0583446,
+    "lon": 9.6826289
+  },
+  "plateau state|nan": {
+    "display_name": "Tingha Plateau State Conservation Area, Tingha, New South Wales, 2369, Australia",
+    "lat": -29.8909571,
+    "lon": 151.231307
+  },
+  "rev|-0.05|34.78": "Kenya",
+  "rev|-0.13|34.94": "Kenya",
+  "rev|-0.87|34.72": "Kenya",
+  "rev|-1.28|29.87": "Uganda",
+  "rev|-10.94|26.95": "Democratic Republic of the Congo",
+  "rev|-12.32|43.67": "Comoros",
+  "rev|-14.18|31.87": "Zambia",
+  "rev|-15.67|46.6": "Madagascar",
+  "rev|-15.77|35.0": "Malawi",
+  "rev|-17.32|49.4": "Madagascar",
+  "rev|-18.37|32.93": "Zimbabwe",
+  "rev|-19.01|46.42": "Madagascar",
+  "rev|-19.0|46.42": "Madagascar",
+  "rev|-19.14|46.42": "Madagascar",
+  "rev|-19.18|32.8": "Zimbabwe",
+  "rev|-19.23|46.27": "Madagascar",
+  "rev|-19.24|46.27": "Madagascar",
+  "rev|-24.56|33.02": "Mozambique",
+  "rev|-25.88|32.87": "Mozambique",
+  "rev|-27.03|32.32": "South Africa",
+  "rev|-3.62|39.73": "Kenya",
+  "rev|-3.88|39.75": "Kenya",
+  "rev|-4.33|15.31": "Democratic Republic of the Congo",
+  "rev|-5.22|38.65": "Tanzania",
+  "rev|-5.23|38.66": "Tanzania",
+  "rev|-5.25|39.03": "Tanzania",
+  "rev|-5.27|38.66": "Tanzania",
+  "rev|-7.98|36.82": "Tanzania",
+  "rev|-8.0|36.83": "Tanzania",
+  "rev|-8.11|36.68": "Tanzania",
+  "rev|-8.36|36.71": "Tanzania",
+  "rev|-8.38|36.67": "Tanzania",
+  "rev|-9.27|28.45": "Zambia",
+  "rev|-9.29|28.75": "Zambia",
+  "rev|-9.29|28.76": "Zambia",
+  "rev|-9.32|28.78": "Zambia",
+  "rev|-9.3|28.78": "Zambia",
+  "rev|0.03|34.64": "Kenya",
+  "rev|0.16|34.75": "Kenya",
+  "rev|0.17|34.75": "Kenya",
+  "rev|0.1|34.72": "Kenya",
+  "rev|0.22|35.23": "Kenya",
+  "rev|0.2|34.77": "Kenya",
+  "rev|0.45|33.23": "Uganda",
+  "rev|0.69|34.18": "Uganda",
+  "rev|10.67|-4.83": "Burkina Faso",
+  "rev|11.65|-4.68": "Burkina Faso",
+  "rev|12.18|-1.38": "Burkina Faso",
+  "rev|12.55|-12.18": "Senegal",
+  "rev|13.35|-13.33": "Senegal",
+  "rev|13.38|-13.62": "Senegal",
+  "rev|13.4|-13.75": "Senegal",
+  "rev|13.63|-16.3": "Senegal",
+  "rev|13.63|10.95": "Niger",
+  "rev|13.75|-16.42": "Senegal",
+  "rev|15.95|-15.92": "Senegal",
+  "rev|15.97|-15.92": "Senegal",
+  "rev|16.0|-15.9": "Senegal",
+  "rev|16.48|-15.55": "Senegal",
+  "rev|3.47|11.74": "Cameroon",
+  "rev|3.75|8.78": "Equatorial Guinea",
+  "rev|3.85|11.5": "Cameroon",
+  "rev|4.07|9.37": "Cameroon",
+  "rev|4.83|9.28": "Cameroon",
+  "rev|5.73|12.0": "Cameroon",
+  "rev|5.88|37.48": "Ethiopia",
+  "rev|6.25|1.6": "Togo",
+  "rev|6.38|2.22": "Benin",
+  "rev|6.47|12.62": "Cameroon",
+  "rev|6.95|3.72": "Nigeria",
+  "rev|9.08|13.67": "Cameroon",
+  "rorya|": {
+    "display_name": "Rorya, Mara Region, Lake Zone, Tanzania",
+    "lat": -1.3011238,
+    "lon": 34.1001498
+  },
+  "rorya|nan": null,
+  "rota|": {
+    "display_name": "Rota, Northwest Coast, Cádiz, Andalusia, 11520, Spain",
+    "lat": 36.6228636,
+    "lon": -6.3599595
+  },
+  "rota|nan": {
+    "display_name": "Tretya Rota, Лазаревский внутригородской район, town district of Sochi, Krasnodar Krai, Southern Federal District, Russia",
+    "lat": 43.7432103,
+    "lon": 39.6803708
+  },
+  "rurumi|": {
+    "display_name": "Occo Rurumi, Corani, Province of Carabaya, Puno, Peru",
+    "lat": -13.8931409,
+    "lon": -70.6721764
+  },
+  "rurumi|nan": null,
+  "rwatama|": {
+    "display_name": "Rwatama, Pallisa, Eastern Region, Uganda",
+    "lat": 1.2799844,
+    "lon": 33.6586877
+  },
+  "rwatama|nan": null,
+  "saboro|": {
+    "display_name": "Saboro, Kassena-Nankana Municipal District, Upper East Region, Ghana",
+    "lat": 10.9147453,
+    "lon": -1.0898521
+  },
+  "saboro|nan": null,
+  "sabtenga|": {
+    "display_name": "Sabtenga, Yatenga, North, Burkina Faso",
+    "lat": 13.5456986,
+    "lon": -2.3282841
+  },
+  "sabtenga|nan": null,
+  "sadiola district|": null,
+  "sadiola district|nan": null,
+  "sankagne|": {
+    "display_name": "Sankagne, Communauté rurale de Missirah, Arrondissement de Missirah, Département de Tambacounda, Tambacounda Region, Senegal",
+    "lat": 13.3863234,
+    "lon": -13.7397097
+  },
+  "sankagne|nan": null,
+  "saradidi|": {
+    "display_name": "Saradidi, West Asembo ward, Rarieda, Siaya County, Kenya",
+    "lat": -0.124623,
+    "lon": 34.3838796
+  },
+  "saradidi|nan": null,
+  "sengerema|": {
+    "display_name": "Sengerema, Mwanza Region, Lake Zone, 33332, Tanzania",
+    "lat": -2.68756,
+    "lon": 32.6204956
+  },
+  "sengerema|nan": null,
+  "serengeti|": {
+    "display_name": "Serengeti, Mara Region, Lake Zone, 31611, Tanzania",
+    "lat": -1.962263,
+    "lon": 34.7690573
+  },
+  "serengeti|nan": {
+    "display_name": "Serengeti, Paradise Serpong City, Babakan, Setu, South Tangerang, Banten, Indonesia",
+    "lat": -6.354117,
+    "lon": 106.6988114
+  },
+  "shakahola village|": {
+    "display_name": "Shakahola Village, Adu ward, Magarini, Kilifi County, Kenya",
+    "lat": -3.1112987,
+    "lon": 39.5512357
+  },
+  "shakahola village|nan": null,
+  "siby|": {
+    "display_name": "Siby, Balé, Boucle du Mouhoun, Burkina Faso",
+    "lat": 11.8688168,
+    "lon": -2.9411517
+  },
+  "siby|nan": null,
+  "simbock|": {
+    "display_name": "Simbock, Yaoundé VI, Yaoundé, Mfoundi, Centre, Cameroon",
+    "lat": 3.8098662,
+    "lon": 11.4761718
+  },
+  "simbock|nan": null,
+  "site 1|": {
+    "display_name": "Site 1, Gilgil ward, Gilgil, Nakuru, 20116, Kenya",
+    "lat": -0.5104205,
+    "lon": 36.3214805
+  },
+  "site 1|nan": {
+    "display_name": "Site 1, Kariong, Gosford, New South Wales, 2250, Australia",
+    "lat": -33.4429079,
+    "lon": 151.2751009
+  },
+  "site 2|": {
+    "display_name": "Site 2, Awerial, Lakes, South Sudan",
+    "lat": 6.0596267,
+    "lon": 31.4941656
+  },
+  "site 2|nan": {
+    "display_name": "Site 2, Kariong, Gosford, New South Wales, 2250, Australia",
+    "lat": -33.4432338,
+    "lon": 151.2751831
+  },
+  "site 3|": {
+    "display_name": "Site 3, Awerial, Lakes, South Sudan",
+    "lat": 6.0503447,
+    "lon": 31.480363
+  },
+  "site 3|nan": {
+    "display_name": "Site 3, Kariong, Gosford, New South Wales, 2250, Australia",
+    "lat": -33.4435043,
+    "lon": 151.2749455
+  },
+  "site 4|": {
+    "display_name": "Site 4, Muxara, Pemba, Cidade de Pemba, Cabo Delgado Province, Zona Norte, Mozambique",
+    "lat": -13.0497911,
+    "lon": 40.5298111
+  },
+  "site 4|nan": {
+    "display_name": "Site 4, Yagon Road, Seal Rocks, New South Wales, 2423, Australia",
+    "lat": -32.453159,
+    "lon": 152.4937321
+  },
+  "site 5|": {
+    "display_name": "Site 5, Kenora District, Northwestern Ontario, Ontario, Canada",
+    "lat": 52.2237085,
+    "lon": -81.9149396
+  },
+  "site 5|nan": {
+    "display_name": "Site 5, Kariong, Gosford, New South Wales, 2250, Australia",
+    "lat": -33.4438548,
+    "lon": 151.2750811
+  },
+  "soumoussou|": null,
+  "soumoussou|nan": null,
+  "soumousso|": {
+    "display_name": "Soumousso, Houet, Upper-Basins, Burkina Faso",
+    "lat": 11.0128342,
+    "lon": -4.047003
+  },
+  "soumousso|nan": null,
+  "suba district|": {
+    "display_name": "UPZs Localidad Suba, Localidad Suba, Bogota, Bogota, Capital District, RAP (Especial) Central, Colombia",
+    "lat": 4.7501539,
+    "lon": -74.088074
+  },
+  "suba district|nan": {
+    "display_name": "Mitar Subotić Suba, Народног фронта, МЗ Лиман 3, Liman, Novi Sad, City of Novi Sad, South Backa Administrative District, Vojvodina, 21102, Serbia",
+    "lat": 45.2409464,
+    "lon": 19.8422882
+  },
+  "takawiri|": {
+    "display_name": "Takawiri Island, Sena, Mfangano Island ward, Mbita, Homa Bay County, Kenya",
+    "lat": -0.4768168,
+    "lon": 34.0879912
+  },
+  "takawiri|nan": null,
+  "taveta|": {
+    "display_name": "Taveta, Taita–Taveta, Kenya",
+    "lat": -3.4,
+    "lon": 37.6833
+  },
+  "taveta|nan": null,
+  "teso north|": {
+    "display_name": "Teso North, Busia County, Kenya",
+    "lat": 0.6745562,
+    "lon": 34.3447977
+  },
+  "teso north|nan": null,
+  "teso south|": {
+    "display_name": "Teso South, Busia County, 50408, Kenya",
+    "lat": 0.5367035,
+    "lon": 34.2342984
+  },
+  "teso south|nan": null,
+  "thomas odhiambo campus|": null,
+  "thomas odhiambo campus|nan": null,
+  "thomo village|": null,
+  "thomo village|nan": null,
+  "tibati|": {
+    "display_name": "Tibati, Djérem, Adamawa, Cameroon",
+    "lat": 6.4658575,
+    "lon": 12.6251249
+  },
+  "tibati|nan": null,
+  "tie´me´le´kro|": null,
+  "tie´me´le´kro|nan": null,
+  "tihuquine|": null,
+  "tihuquine|nan": null,
+  "tiko village|": {
+    "display_name": "Tiko, Kati Cercle, Koulikoro, Mali",
+    "lat": 13.2618137,
+    "lon": -8.4695762
+  },
+  "tiko village|nan": null,
+  "tivandane|": null,
+  "tivandane|nan": null,
+  "ti em el ekro|": null,
+  "ti em el ekro|nan": null,
+  "tororo district|": {
+    "display_name": "Tororo, Goilala District, Central, Southern Region, Papua New Guinea",
+    "lat": -8.2509873,
+    "lon": 146.9298628
+  },
+  "tororo district|nan": null,
+  "tororo|": {
+    "display_name": "Tororo, Eastern Region, Uganda",
+    "lat": 0.7407633,
+    "lon": 34.1026752
+  },
+  "tororo|nan": {
+    "display_name": "Rua do Tororó, Alto dos Caiçaras, Regional Noroeste, Belo Horizonte, Minas Gerais, Southeast Region, 30775-240, Brazil",
+    "lat": -19.8938389,
+    "lon": -43.9723863
+  },
+  "ukerewe|": {
+    "display_name": "Ukerewe, Mwanza Region, Lake Zone, Tanzania",
+    "lat": -2.0314803,
+    "lon": 32.9760175
+  },
+  "ukerewe|nan": null,
+  "ungoe village|": null,
+  "ungoe village|nan": null,
+  "vea|": {
+    "display_name": "Vea küla, Peipsiääre vald, Tartu County, 49422, Estonia",
+    "lat": 58.6476748,
+    "lon": 26.9676417
+  },
+  "vea|nan": null,
+  "viwanja sitini|": {
+    "display_name": "Viwanja Sitini, Ifakara Town, Morogoro Region, Coastal Zone, Tanzania",
+    "lat": -8.1248294,
+    "lon": 36.682915
+  },
+  "viwanja sitini|nan": null,
+  "walukuba|": {
+    "display_name": "Walukuba, Jinja City, Eastern Region, Uganda",
+    "lat": 0.447222,
+    "lon": 33.236667
+  },
+  "walukuba|nan": null,
+  "wassadou|": {
+    "display_name": "Wassadou, Foni Jarrol, Brikama, West Coast Division, The Gambia",
+    "lat": 13.2137193,
+    "lon": -15.8626975
+  },
+  "wassadou|nan": null,
+  "wuru|": {
+    "display_name": "Wuru, Tonkolili District, Northern Province, Sierra Leone, Sierra Leone",
+    "lat": 8.9957027,
+    "lon": -11.7621686
+  },
+  "wuru|nan": {
+    "display_name": "Wuru Drive, Burrill Lake, New South Wales, 2539, Australia",
+    "lat": -35.392656,
+    "lon": 150.4385892
+  },
+  "xinavane|": {
+    "display_name": "Xinavane, Manhiça, Maputo Province, Zona Sul, Mozambique",
+    "lat": -25.0537378,
+    "lon": 32.788531
+  },
+  "xinavane|nan": null,
+  "yala river|": {
+    "display_name": "Yala River, Luri, Central Gem ward, Gem, Siaya County, Kenya",
+    "lat": 0.0743208,
+    "lon": 34.5191319
+  },
+  "yala river|nan": {
+    "display_name": "Yala, Kakamega County, Kenya",
+    "lat": 0.1610984,
+    "lon": 34.6717048
+  },
+  "yaounde|": {
+    "display_name": "Yaoundé, Mfoundi, Centre, Cameroon",
+    "lat": 3.8689867,
+    "lon": 11.5213344
+  },
+  "yaounde|nan": {
+    "display_name": "Minibus vers Yaoundé, N2A, Konofonossi, Kyé-Ossi, Vallée-du-Ntem, South, Cameroon",
+    "lat": 2.1950666,
+    "lon": 11.3420926
+  },
+  "zambézia province|": {
+    "display_name": "Zambezia Province, Zona Centro, Mozambique",
+    "lat": -16.6460178,
+    "lon": 36.991932
+  },
+  "zambézia province|nan": {
+    "display_name": "Rua da Zambezia, Bairro do Jardim, Nampula, Cidade de Nampula, Nampula Province, Zona Norte, Mozambique",
+    "lat": -15.1274213,
+    "lon": 39.2646517
+  },
+  "zatta|": {
+    "display_name": "Zatta, Kossou, Yamoussoukro, Ivory Coast",
+    "lat": 6.8776452,
+    "lon": -5.4035429
+  },
+  "zatta|nan": {
+    "display_name": "Loteamento Zatta, Vila Sésamo, Xanxerê, Santa Catarina, South Region, Brazil",
+    "lat": -26.8684434,
+    "lon": -52.4277773
+  },
+  "zindarou|": {
+    "display_name": "Zindarou, Boboye, Dosso Region, Niger",
+    "lat": 13.434481,
+    "lon": 2.91987
+  },
+  "zindarou|nan": null
+}
